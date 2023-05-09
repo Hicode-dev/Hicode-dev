@@ -1,19 +1,19 @@
-### Hi there 👋
+### Hi there welcome to my page👋
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://soject.com/wp-content/uploads/2021/02/EzgdmaCQuT84bgDL4fhXZS.jpg)
 <h1 align="center">Hi 👋, I'm king</h1>
 <h3 align="center">A passionate frontend developer And also an open source contributor from Nigeria </h3>
 
-<img src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0" align='right' width='400' alt="" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hicode-dev&label=Profile%20views&color=0e75b6&style=flat" alt="hicode-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hicode-dev" alt="hicode-dev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shankhungryman" target="blank"><img src="https://img.shields.io/twitter/follow/shankhungryman?logo=twitter&style=for-the-badge" alt="shankhungryman" /></a> </p>
-
+<img src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0" align='right' width='400' alt="" />
 - 🔭 I’m currently working on **search engine**
 
-- 🌱 I’m currently learning **c#,**
+- 🌱 I’m currently learning **c#,python**
 
 - 💬 Ask me about **react,html,css ,javascript**
 
@@ -33,7 +33,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hicode-dev&show_icons=true&locale=en&layout=compact" alt="hicode-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hicode-dev&show_icons=true&locale=en" alt="hicode-dev" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hicode-dev&show_icons=true&locale=en" alt="hicode-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hicode-dev&" alt="hicode-dev" /></p>
 

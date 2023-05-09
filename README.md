@@ -3,6 +3,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm king</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">And also an open source contributor</h3>
 <img src="https://www.bing.com/images/search?view=detailV2&ccid=wNGxHlTC&id=642A5EA01B57304D7C4E72902D3FA0A2270B41F8&thid=OIP.wNGxHlTCsH9zU90WDouoDQHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1059583%2fscreenshots%2f4171367%2fcoding-freak.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c0d1b11e54c2b07f7353dd160e8ba80d%3frik%3d%252bEELJ6KgPy2Qcg%26pid%3dImgRaw%26r%3d0&exph=600&expw=800&q=Coding+Animation&simid=608052642427978484&FORM=IRPRST&ck=81CABFF855597FE1A42A4C2B21AB3601&selectedIndex=1" align='right' width='400' alt="" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hicode-dev&label=Profile%20views&color=0e75b6&style=flat" alt="hicode-dev" /> </p>
 
